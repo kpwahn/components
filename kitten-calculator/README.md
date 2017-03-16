@@ -5,7 +5,7 @@ Expected props: An object specifying the operators and their corresponding funct
 
 Example usage;
 
-export default class App extends Component {
+`export default class App extends Component {
   constructor(props) {
     super(props);
 
@@ -18,7 +18,6 @@ export default class App extends Component {
         }
     }
   }
-
   render() {
     return (
       <div>
@@ -26,4 +25,4 @@ export default class App extends Component {
       </div>
     );
   }
-}
+}`
