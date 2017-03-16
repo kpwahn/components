@@ -7,6 +7,7 @@ Example usage;
 
 ```javascript
 export default class App extends Component {
+
   constructor(props) {
     super(props);
 
@@ -19,6 +20,7 @@ export default class App extends Component {
         }
     }
   }
+  
   render() {
     return (
       <div>
