@@ -3,7 +3,7 @@ This is a simple calculator with kittens. Enjoy!
 
 Expected props: An object specifying the operators and their corresponding functions.
 
-Example usage;
+Example usage:
 
 ```javascript
 export default class App extends Component {
